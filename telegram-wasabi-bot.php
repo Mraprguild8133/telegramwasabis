@@ -4,7 +4,7 @@
  * Plugin URI: https://yourdomain.com/telegram-wasabi-bot
  * Description: Advanced Telegram bot with Wasabi cloud storage - Support files up to 4GB, streaming links for MX Player & VLC
  * Version: 2.0.0
- * Author: Your Name
+ * Author: Mraprguild 
  * Author URI: https://yourdomain.com
  * License: GPL v3
  * Text Domain: twb-pro
